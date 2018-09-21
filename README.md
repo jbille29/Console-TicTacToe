@@ -1,2 +1,2 @@
 # Console-TicTacToe
-Two player tictactoe that prints board out to console after each turn.
+Two player tic tac toe that prints the game board out to the console after each turn.
